@@ -3,7 +3,7 @@ Include "view-header.php";
 ?>
 <h1>Post result</h1>
 <?php
-echo getGaneResult();
+echo getGameResult();
 Include "view-footer.php";
 
 function getGameResult() {
